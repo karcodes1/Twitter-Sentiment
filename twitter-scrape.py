@@ -54,7 +54,7 @@ if SP500_bool == True:
         tickers = R1000['Symbol'].to_numpy()
 
 #create auth token for twitter
-os.environ['TOKEN'] = 'AAAAAAAAAAAAAAAAAAAAAGxwRQEAAAAAPCjuHc7g1xOx2u0eZ2%2FqZSNfd%2FQ%3DyZECcuejQzsxop8WSMryGbPeZOdvlcp4KVTN6eINR8GHCGfRc1'
+os.environ['TOKEN'] = ''
 def auth():
     return os.getenv('TOKEN')
 def create_headers(bearer_token):

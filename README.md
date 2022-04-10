@@ -16,7 +16,7 @@ To replicate the results found in this paper I had to create two programs. One t
 
 Scrapping twitter data was acomplished using twitter-scrape.py. It works by querrying the twitter API for tweets that contain the '$' sign followed by a ticker. This was done for all firms within the S&P 500. 
 
-## Analyizing the twitter data
+# Analyizing the twitter data
 
 # Data Collection
 

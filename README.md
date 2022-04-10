@@ -14,9 +14,11 @@ To replicate the results found in this paper I had to create two programs. One t
 
 ## Scraping twitter data **requires twitter academic API access**
 
-Scrapping twitter data was acomplished using twitter-scrape.py. It works by querrying the twitter API for tweets that contain the '$' sign followed by a ticker. This was done for all firms within the S&P 500. 
+Scrapping twitter data was acomplished using twitter_scrape.py. It works by querrying the twitter API for tweets that contain the '$' sign followed by a ticker. This was done for all firms within the S&P 500. 
 
 # Analyizing the twitter data
+
+The data was analyzed in twitter_sent_analysis.ipynb
 
 # Data Collection
 

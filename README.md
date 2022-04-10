@@ -98,7 +98,7 @@ The above regression will be preformed 9 times. For each variable (Pos1, Pos2, N
 ## Regression Results
 
 <img src='./twitter_sent_img/regression_results.png'
-     width="90%">
+     width="95%">
      
 For each of the 9 regresions we have the expected sign for Beta. We have strong statistical significance in 5/9 of the regressions (P < .01), acceptable statistical significance in 2/9 of the regressions (P < .05) and no statistical significance (P > .05) in 2/9 of the regressions. 
 
